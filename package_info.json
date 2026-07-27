@@ -1,0 +1,85 @@
+{
+    "package_name": "Computational Quantum Dynamics Study Package",
+    "package_folder": "Computational_Quantum_Dynamics_Study_Package",
+    "lecture_folder": "Computational_Quantum_Dynamics_Study_Package/lecture_notes",
+    "number_of_study_notebooks": 13,
+    "study_order": [
+        {
+            "order": 0,
+            "file": "00_Preparation_Basics.ipynb",
+            "title": "Preparation and Computational Basics"
+        },
+        {
+            "order": 1,
+            "file": "01_Lecture_1_Quantum_Mechanics_Basics.ipynb",
+            "title": "Quantum Mechanics Basics"
+        },
+        {
+            "order": 2,
+            "file": "02_Lecture_2_Numerical_Linear_Algebra.ipynb",
+            "title": "Numerical Linear Algebra"
+        },
+        {
+            "order": 3,
+            "file": "03_Lecture_3_Split_Step_Fourier_Method.ipynb",
+            "title": "Split-Step Fourier Method"
+        },
+        {
+            "order": 4,
+            "file": "04_Lecture_4_Many_Body_Approximations.ipynb",
+            "title": "Many-Body Quantum Systems and Approximations"
+        },
+        {
+            "order": 5,
+            "file": "05_Lecture_5_Spin_Half_Systems.ipynb",
+            "title": "Spin-\u00bd Systems"
+        },
+        {
+            "order": 6,
+            "file": "06_Lecture_6_ODE_Solvers_and_TDSE.ipynb",
+            "title": "ODE Solvers and Quantum Time Evolution"
+        },
+        {
+            "order": 7,
+            "file": "07_Lecture_7_Collective_Spins_and_Husimi_Functions.ipynb",
+            "title": "Collective Spins and Husimi Functions"
+        },
+        {
+            "order": 8,
+            "file": "08_Lecture_8_Mixed_States_and_Entanglement.ipynb",
+            "title": "Mixed States and Entanglement"
+        },
+        {
+            "order": 9,
+            "file": "09_Lecture_9_Matrix_Product_States.ipynb",
+            "title": "Matrix Product States"
+        },
+        {
+            "order": 10,
+            "file": "10_Lecture_10_Variational_MPS_Optimization.ipynb",
+            "title": "Variational Optimization of Matrix Product States"
+        },
+        {
+            "order": 11,
+            "file": "11_Lecture_11_Open_Quantum_Systems.ipynb",
+            "title": "Open Quantum Systems"
+        },
+        {
+            "order": 12,
+            "file": "12_Supplement_Variational_Monte_Carlo.ipynb",
+            "title": "Variational Monte Carlo"
+        }
+    ],
+    "included_material": [
+        "Preparation notebook",
+        "Lectures 1 to 11",
+        "Variational Monte Carlo supplement"
+    ],
+    "excluded_material": [
+        "Exercises",
+        "Exercise solutions",
+        "Tests",
+        "GitHub configuration files",
+        "Package-development files"
+    ]
+}
