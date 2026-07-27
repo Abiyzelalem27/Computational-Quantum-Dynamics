@@ -3,7 +3,6 @@
 import numpy as np
 import qutip as qt
 
-
 def create_qubit_state(theta: float, phi: float) -> qt.Qobj:
     """
     Create a normalized single-qubit state from Bloch-sphere angles.
