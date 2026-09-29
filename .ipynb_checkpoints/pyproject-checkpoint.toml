@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cqd"
 version = "1.0.0"
-description = "Computational Quantum Dynamics course taught by Prof. Gärttner SS2026"
+description = "Computational Quantum Dynamics"
 readme = "README.md"
 requires-python = ">=3.11"
 
